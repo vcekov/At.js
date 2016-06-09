@@ -312,3 +312,4 @@ Not change settings
     multiple char listening.
 * 顯示缺省列表.
     show default list.
+
